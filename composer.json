@@ -1,0 +1,16 @@
+{
+    "name": "zzj980725/test",
+    "description": "我是个垃圾，要为难我好么",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaozhenjie",
+            "email": "1772304529@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    "overtrue/wechat":"dev-master"
+}
+}
